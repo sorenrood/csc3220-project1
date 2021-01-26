@@ -95,7 +95,6 @@ namespace Sack
     }
 
     /// Gets the weight of the backpack.
-    /// ### Inputs
     ///
     /// ### Returns
     ///
